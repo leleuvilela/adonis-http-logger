@@ -1,5 +1,5 @@
 {
-  "name": "@adonisjs/http-logger",
+  "name": "http-logger",
   "version": "1.0.0",
   "description": "Http request logger for AdonisJs",
   "main": "index.js",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adonisjs/adonis-http-logger.git"
+    "url": "git+https://github.com/leleuvilela/adonis-http-logger.git"
   },
   "bugs": {
-    "url": "https://github.com/adonisjs/adonis-http-logger/issues"
+    "url": "https://github.com/leleuvilela/adonis-http-logger/issues"
   },
-  "homepage": "https://github.com/adonisjs/adonis-http-logger#readme"
+  "homepage": "https://github.com/leleuvilela/adonis-http-logger#readme"
 }
