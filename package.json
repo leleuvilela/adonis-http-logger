@@ -1,5 +1,5 @@
 {
-  "name": "http-logger",
+  "name": "adonis-http-logger",
   "version": "1.0.0",
   "description": "Http request logger for AdonisJs",
   "main": "index.js",
